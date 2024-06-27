@@ -1,1 +1,1 @@
-E-Invoice Digital Cert
+E-Invoice Digital Certificate
