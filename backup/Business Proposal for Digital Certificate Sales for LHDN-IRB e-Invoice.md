@@ -54,6 +54,7 @@ The implementation of the LHDN/IRB e-Invoice system requires businesses to authe
 - Advanced Training Package: RM 650 per session
 - Consultation Services: RM 200 per hour
 
-## FREE 3 Months licenses for IRBM Sandbox
-kindly email to einvoicedigitalcert@gmail.com
+## FREE 3 Months e-Invoice Digital certificate for IRBM Sandbox (Staging Environment)
+
+### kindly email to einvoicedigitalcert@gmail.com
 
